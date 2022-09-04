@@ -2,6 +2,12 @@
 
 ## **Project Overview**
 
+Data Analysis research project done for Northwestern's Fintech Bootcamp. It gathers data using APIs, cleans them up, plots them and analyzes them. It uses Python and Pandas.
+
+### Getting Started
+
+This project was done on a Jupyter notebook, which means there is no need to run this as an "app". A Jupyter notebook contains python code and displays the results of the code on the same page when running on a local computer with all dependencies installed. But no need to install libraries. Just open up the ".ipynb" file in the repository and it shows the Python code with its immediate results. As this is a research project, all analysis is right here on the Readme.
+
 ### *Package Requirements and Versions*
 
 `pip install x` ; where 'x' is the package listed below:
